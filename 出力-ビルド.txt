@@ -1,0 +1,6 @@
+﻿ビルドを開始しました...
+1>------ ビルド開始: プロジェクト: Project, 構成: Debug x64 ------
+1>20230424_Prac2nakasima.cpp
+1>Project.vcxproj -> C:\Users\student\Desktop\Dxlib2DGames\purojekuto\Project\x64\Debug\Project.exe
+========== ビルド: 成功 1、失敗 0、最新の状態 0、スキップ 0 ==========
+========== ビルド は 4:18 PM に開始され、00.478 秒 かかりました ==========
